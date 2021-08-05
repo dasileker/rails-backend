@@ -1,55 +1,34 @@
-Instructor.create!(
-  name: 'Hiccup Horrendous Haddock III',
-  instImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/Hiccup.png',
-  dragonName: 'Toothless',
-  dragonType: 'Night Fury',
-  dragonImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/Toothless.png',
+Motor.create!(
+  name: 'PRIMAVERA 50 75TH EURO 5',
+  motoImage: '',
+  motoType: 'Sports',
+  spesification: 'The Vespa 75th sports all sorts of details that make it a true classic, such as its metallic yellow, called Giallo 75th, a contemporary interpretation of the colours that were so in vogue during the Forties and seen here on the steel body. A special badge with the series name on the rear of the shield is another celebratory touch that marks this momentous occasion.'
 )
 
-Instructor.create!(
-  name: 'Astrid Hofferson',
-  instImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/astrid.png',
-  dragonName: 'Stormfly',
-  dragonType: 'Deadly Nadler',
-  dragonImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/Stormfly.png',
+Motor.create!(
+  name: 'GTS SUPER 300 EURO 5',
+  motoImage: '',
+  motoType: 'Vespa GTS Super',
+  specification: 'The Vespa GTS Super 300 with its 300 HPE (High Performance Engine) and ASR traction control as standard is the fastest, most powerful Vespa of all time. Its single-cylinder, 4-stroke, 4-valve, liquid-cooled 300-cc engine with electronic injection delivers up to 23.8 Hp and its first-class quality construction makes for remarkable acceleration from a standstill. In short, the word Super is the perfect description.'
 )
 
-Instructor.create!(
-  name: 'Fishlegs Ingerman',
-  instImage: 'https://raw.githack.com/phalado/final-capstone-api/master/images/Fishlegs.png',
-  dragonName: 'Meatlug',
-  dragonType: 'Gronckle',
-  dragonImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/meatlug.png',
+Motor.create!(
+  name: 'PRIMAVERA 50 EURO 5',
+  motoImage: '',
+  motoType: 'Vespa Primavera 50-cc',
+  spesification: 'The Vespa Primavera 50-cc 4-stroke features the innovative i-get engine with and inbuilt barometric sensor that constantly monitors combustion and adapts it to driving conditions. Electronic injection and 3-valve distribution (2 intake and 1 exhaust) are perfectly calibrated to optimise performance and fuel consumption, whilst improved delivery and start-up are the cherry on the top.'
 )
 
-Instructor.create!(
-  name: 'Snotlout Jorgenson',
-  instImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/Snotlout.png',
-  dragonName: 'Hookfang',
-  dragonType: 'Monstrous Nightmare',
-  dragonImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/Hookfang.png',
+Motor.create!(
+  name: 'PRIMAVERA 125 EURO 5',
+  motoImage: '',
+  motoType: 'Comfort',
+  spesification: 'This small body Vespa with its nifty lightweight structure  zips through city traffic  and longer stretches of empty roads with ease. Designed so that you enjoy a smooth, quiet and comfortable ride, its 12" wheels deliver perfect grip on all surfaces and in all conditions.'
 )
 
-Instructor.create!(
-  name: 'Tuffnut LaVerne Thorston',
-  instImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/tuffnut.png',
-  dragonName: 'Barf and Belch',
-  dragonType: 'Hideous Zippleback',
-  dragonImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/barf-belch.png',
-)
-
-Instructor.create!(
-  name: 'Ruffnut Eugene Thorston',
-  instImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/ruffnut.png',
-  dragonName: 'Barf and Belch',
-  dragonType: 'Hideous Zippleback',
-  dragonImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/barf-belch.png',
-)
-
-Instructor.create!(
-  name: 'Dohko',
-  instImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/dohko.png',
-  dragonName: 'Shiryu',
-  dragonType: 'Knight of the Zodiac',
-  dragonImage: 'https://raw.githubusercontent.com/phalado/final-capstone-api/master/images/Shiryu.png',
+Motor.create!(
+  name: 'SEI GIORNI 300 II EDITION EURO 5',
+  motoImage: '',
+  motoType: 'Sei Giorni II Edition',
+  spesification: 'Inspired by the winning history of Vespa's most famous competition bike, the Sei Giorni II Edition brings together the very best in engine technology with a design that is all about comfort and sports prowess on the road.'
 )
