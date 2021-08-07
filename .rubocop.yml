@@ -19,7 +19,7 @@ Metrics/PerceivedComplexity:
   Max: 500
 Metrics/BlockLength:
   ExcludedMethods: ['describe']
-  Max: 30
+  Max: 70
 
 
 Style/Documentation:
@@ -54,4 +54,3 @@ Style/HashTransformValues:
   Enabled: false
 Layout/LineLength:
   Max: 500
-  
