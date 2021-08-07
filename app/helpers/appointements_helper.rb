@@ -1,2 +1,0 @@
-module AppointementsHelper
-end
